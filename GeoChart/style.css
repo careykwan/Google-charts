@@ -1,0 +1,26 @@
+#container {
+	height: 600px;
+	width: 1000px;
+	margin: 0 auto;
+	position: relative;
+	background-color: grey;
+
+}
+
+#showGraph {
+	height: 600px;
+	width: 80%;
+	float: left;
+	background-color: #009688;
+
+}
+
+#box {
+	height: 600px;
+	width: 20%;
+	margin-right: 0px;
+	text-align: center;
+	box-sizing: border-box;
+	display: inline-block;
+	background-color: #16a085;
+}
